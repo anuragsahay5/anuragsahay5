@@ -15,7 +15,7 @@
   <img src="https://badges.joonhyung.xyz/codeforces/anurag_5.svg" height="25" />
 </a>
 &emsp13;  &emsp13;
-<a target="_blank" href=https://codeforces.com/profile/anurag_5>
+<a target="_blank" href=https://github.com/anuragsahay5>
   <img src="https://komarev.com/ghpvc/?username=anuragsahay5" height="25" alt="anuragsahay5"/>
 </a>
 
