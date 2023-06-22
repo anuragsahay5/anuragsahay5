@@ -29,17 +29,18 @@
 <br>
 
 <p align="center">
-<img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg alt=C++ width="50" height="50"/>
-<img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg alt=html5 width="50" height="50"/>
-<img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg alt=css3 width="50" height="50"/>
-<img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg alt=javascript width="50" height="50"/>
-<img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg alt=nodejs width="50" height="50"/>
- <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg alt=react width="50" height="50"/>
- <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg alt=express width="50" height="50"/>
-<img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg alt=mongodb width="50" height="50"/>
-<img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg alt=express width="50" height="50"/>
-<img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg alt=git width="50" height="50"/>
-<img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg alt=linux width="50" height="50"/>
+<img src=https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg alt=C++ width="50" height="50"/>
+<img src=https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg alt=html5 width="50" height="50"/>
+<img src=https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg alt=css3 width="50" height="50"/>
+<img src=https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg alt=tailwind css width="50" height="50"/>
+<img src=https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg alt=javascript width="50" height="50"/>
+<img src=https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg alt=nodejs width="50" height="50"/>
+ <img src=https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg alt=react width="50" height="50"/>
+ <img src="https://img.icons8.com/?size=512&id=kg46nzoJrmTR&format=png" alt=express width="50" height="50"/>
+<img src=https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg alt=mongodb width="50" height="50"/>
+<img src=https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg alt=mysql width="50" height="50"/>
+<img src=https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg alt=git width="50" height="50"/>
+<img src=https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg alt=linux width="50" height="50"/>
 </p>
 
 <br><br><br>
