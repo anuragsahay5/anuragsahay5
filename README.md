@@ -29,6 +29,8 @@
 <li> Looking for opportunities </li>
 
 <hr>
+<br>
+<br>
 <!-- <h3 align="center">That's All i Know</h3> -->
 <h3 align="left">Languages, Tool and Frameworks </h3>
 
@@ -46,7 +48,8 @@
 <img src=https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg alt=git width="50" height="50"/>
 <img src=https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg alt=linux width="50" height="50"/>
 </p>
-
+<br>
+<br>
 <hr>
 <br><br><br>
 
