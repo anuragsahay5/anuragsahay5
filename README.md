@@ -22,7 +22,7 @@
 </p>
 <br>
 
-- 👨‍🎓 3rd year UG Student in **Computer Science and Technology** at **IIEST, Shibpur**.
+- 👨‍🎓 4th year UG Student in **Computer Science and Technology** at **IIEST, Shibpur**.
 
 <hr>
 <h3 align="center">That's All i Know</h3>
