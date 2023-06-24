@@ -29,7 +29,8 @@
 <li> Looking for opportunities </li>
 
 <hr>
-<h3 align="center">That's All i Know</h3>
+<!-- <h3 align="center">That's All i Know</h3> -->
+<h3 align="left">Languages, Tool and Frameworks </h3>
 <br>
 
 <p align="center">
