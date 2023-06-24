@@ -22,7 +22,10 @@
 </p>
 <br>
 
-- 👨‍🎓 4th year UG Student in **Computer Science and Technology** at **IIEST, Shibpur**.
+### 👨‍🎓 4th year UG Student in **Computer Science and Technology** at **IIEST, Shibpur**.
+<hr>
+- Currently doing Data Structures and Algorithms, Web Development (MERN).
+- Trying to learn new things and its application
 
 <hr>
 <h3 align="center">That's All i Know</h3>
