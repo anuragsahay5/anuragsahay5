@@ -29,12 +29,10 @@
 <li> Looking for opportunities </li>
 
 <hr>
+<h3 align="center">That's All i Know</h3>
 <br>
-<br>
-<!-- <h3 align="center">That's All i Know</h3> -->
-<h3 align="left">Languages, Tool and Frameworks </h3>
 
-<p align="left">
+<p align="center">
 <img src=https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg alt=C++ width="50" height="50"/>
 <img src=https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg alt=html5 width="50" height="50"/>
 <img src=https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg alt=css3 width="50" height="50"/>
@@ -48,9 +46,7 @@
 <img src=https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg alt=git width="50" height="50"/>
 <img src=https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg alt=linux width="50" height="50"/>
 </p>
-<br>
-<br>
-<hr>
+
 <br><br><br>
 
 |![](https://github-readme-stats.vercel.app/api?username=anuragsahay5&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)|![](https://github-readme-stats.vercel.app/api/top-langs/?username=anuragsahay5&layout=compact&theme=tokyonight&langs_count=10)|
