@@ -26,6 +26,7 @@
 <hr>
 <li> Currently doing Data Structures and Algorithms, Web Development (MERN). </li>
 <li> Trying to learn new things and its application. </li>
+<li> Looking for opportunities </li>
 
 <hr>
 <h3 align="center">That's All i Know</h3>
