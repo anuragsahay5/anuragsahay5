@@ -24,7 +24,7 @@
 
 ### 👨‍🎓 4th year UG Student in **Computer Science and Technology** at **IIEST, Shibpur**.
 <hr>
-<li> Currently doing Data Structures and Algorithms, Web Development (MERN). </li>
+<li> Currently doing Data Structures and Algorithms, Full Stack Web Development (MERN). </li>
 <li> Trying to learn new things and its application. </li>
 <li> Looking for opportunities </li>
 
