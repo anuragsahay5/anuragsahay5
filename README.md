@@ -1,6 +1,6 @@
 <h3 align="center">Hi, Developers <img src=https://media.tenor.com/nebZyl8oN7IAAAAj/wave-hello.gif width="20" height="20" /> </h3>
 <h1 align="center"> Anurag Sahay</h1>
-
+<img src="https://avatars.githubusercontent.com/u/92026363" height=25>
 <p align="center">
   
 <a href="mailto:anuragtbg@gmail.com">
