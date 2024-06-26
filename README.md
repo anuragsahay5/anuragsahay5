@@ -4,7 +4,7 @@
 <p align="center">
   
 <a href="mailto:anuragtbg@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25>
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=200>
 </a>
   
 <a href="https://www.linkedin.com/in/anurag-sahay-7523bb220/">
