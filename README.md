@@ -1,10 +1,10 @@
 <h3 align="center">Hi, Developers <img src=https://media.tenor.com/nebZyl8oN7IAAAAj/wave-hello.gif width="20" height="20" /> </h3>
 <h1 align="center"> Anurag Sahay</h1>
-<img src="https://avatars.githubusercontent.com/u/92026363" height=25>
+<img src="https://avatars.githubusercontent.com/u/92026363" height=200>
 <p align="center">
   
 <a href="mailto:anuragtbg@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=200>
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25>
 </a>
   
 <a href="https://www.linkedin.com/in/anurag-sahay-7523bb220/">
