@@ -1,4 +1,4 @@
-<h3 align="center">Hi, Developers <img src=https://media.tenor.com/nebZyl8oN7IAAAAj/wave-hello.gif width="20" height="20" /> </h3>
+<h3 align="center">Hi, Everyone <img src=https://media.tenor.com/nebZyl8oN7IAAAAj/wave-hello.gif width="20" height="20" /> </h3>
 <h1 align="center"> Anurag Sahay</h1>
 
 <p align="center">
