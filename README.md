@@ -26,7 +26,7 @@
 #### 👨‍🎓 B.Tech in **Computer Science and Technology** at **IIEST, Shibpur**(2024).
 <hr>
 <li> Working on Python, Javascript and GenAI. </li>
-<li> Skilled Data Structures and Algorithm and Full-Stack Web Development. </li>
+<li> Skilled in Data Structures and Algorithm and Full-Stack Web Development. </li>
 <li> Looking for opportunities. </li>
 
 <hr>
