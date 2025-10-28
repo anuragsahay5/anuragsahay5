@@ -35,6 +35,7 @@
 
 <p align="center">
 <img src=https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg alt=C++ width="50" height="50"/>
+  <img src=https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg alt=Python width="50" height="50"/>
 <img src=https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg alt=html5 width="50" height="50"/>
 <img src=https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg alt=css3 width="50" height="50"/>
 <img src=https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg alt=tailwind css width="50" height="50"/>
