@@ -22,11 +22,12 @@
 </p>
 <br>
 
-### 👨‍🎓 4th year UG Student in **Computer Science and Technology** at **IIEST, Shibpur**.
+### 👨‍💻<span style="color:#808080;">Advanced Application Analyst</span> at <span style="color:#b200ff;" >Accenture</span>. 
+#### 👨‍🎓 B.Tech in **Computer Science and Technology** at **IIEST, Shibpur**(2024).
 <hr>
-<li> Currently doing Data Structures and Algorithms, Full Stack Development (MERN). </li>
-<li> Trying to learn new things and its application. </li>
-<li> Looking for opportunities </li>
+<li> Working on Python, Javascript and GenAI. </li>
+<li> Skilled Data Structures and Algorithm and Full-Stack Web Development. </li>
+<li> Looking for opportunities. </li>
 
 <hr>
 <h3 align="center">That's All I Know</h3>
