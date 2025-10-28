@@ -22,7 +22,7 @@
 </p>
 <br>
 
-### 👨‍💻<span style="color:#808080;">Advanced Application Analyst</span> at <span style="color:#b200ff;" >Accenture</span>. 
+### 👨‍💻 Advanced Application Analyst at Accenture. 
 #### 👨‍🎓 B.Tech in **Computer Science and Technology** at **IIEST, Shibpur**(2024).
 <hr>
 <li> Working on Python, Javascript and GenAI. </li>
