@@ -30,26 +30,29 @@
 <li> Looking for opportunities. </li>
 
 <hr>
-<h3 align="center">That's All I Know</h3>
-<br>
 
-<p align="center">
-<img src=https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg alt=C++ width="50" height="50"/>
-  <img src=https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg alt=Python width="50" height="50"/>
-<img src=https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg alt=html5 width="50" height="50"/>
-<img src=https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg alt=css3 width="50" height="50"/>
-<img src=https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg alt=tailwind css width="50" height="50"/>
-<img src=https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg alt=javascript width="50" height="50"/>
-<img src=https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg alt=nodejs width="50" height="50"/>
- <img src=https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg alt=react width="50" height="50"/>
- <img src="https://img.icons8.com/?size=512&id=kg46nzoJrmTR&format=png" alt=express width="50" height="50"/>
-<img src=https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg alt=mongodb width="50" height="50"/>
-<img src=https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg alt=mysql width="50" height="50"/>
-<img src=https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg alt=git width="50" height="50"/>
-<img src=https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg alt=linux width="50" height="50"/>
-</p>
+### That's All I Know
 
-<br><br><br>
+<div style="display: flex; flex-wrap: wrap; gap:16px;">
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="40" height="40" >
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="40" height="40" >
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="40" height="40" >
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="40" height="40" >
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" width="40" height="40" >
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="40" height="40" >
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" width="40" height="40" >
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="40" height="40" >
+<img src="https://img.icons8.com/?size=512&id=kg46nzoJrmTR&format=png" width="40" height="40" >
+<img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40" >
+<img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" width="40" height="40" >
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" width="40" height="40" >
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" width="40" height="40" >
+
+</div>
+
+<hr>
+
 ### Github Stats
 |![](https://github-stats-extended.vercel.app/api/?username=anuragsahay5&show_icons=true&theme=radical&rank_icon=github&include_all_commits=true)|![](https://github-readme-streak-stats-nine-beta.vercel.app/?user=anuragsahay5&theme=dark&hide_border=true&date_format=j%2Fn%5B%2FY%5D)|
 |-|-|
