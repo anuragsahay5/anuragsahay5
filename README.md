@@ -23,21 +23,7 @@
 - Strong foundation in **data structures and algorithms**, with working knowledge of **machine learning**
 - Open to new opportunities in backend and ML engineering
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>💼 Current Role</h3>
-      <strong>Software Engineer</strong><br />
-      Accenture
-    </td>
-    <td width="50%" valign="top">
-      <h3>🎓 Education</h3>
-      <strong>B.Tech, Computer Science and Technology</strong><br />
-      Indian Institute of Engineering Science and Technology, Shibpur<br />
-      Batch of 2024
-    </td>
-  </tr>
-</table>
+**B.Tech, Computer Science and Technology** — Indian Institute of Engineering Science and Technology, Shibpur · Batch of 2024
 
 ## Languages and Tools
 
