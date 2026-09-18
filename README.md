@@ -37,7 +37,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" height="40" align="left" >
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" height="40" align="left" >
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" height="40" align="left" >
-<img src="https://img.icons8.com/?size=512&id=kg46nzoJrmTR&format=png" height="40" align="left" >
+<img src="https://files.svgcdn.io/skill-icons/expressjs-dark.svg" height="40" align="left" >
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" height="40" align="left" >
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" height="40" align="left" >
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" height="40" align="left" >
