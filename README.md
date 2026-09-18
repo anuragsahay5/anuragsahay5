@@ -32,26 +32,26 @@
 <hr>
 
 ### That's All I Know
-<br>
-<div style="display: flex; flex-wrap: wrap; gap:16px;">
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="40" height="40" >
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="40" height="40" >
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="40" height="40" >
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" width="40" height="40" >
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="40" height="40" >
-<img src="https://img.icons8.com/?size=512&id=kg46nzoJrmTR&format=png" width="40" height="40" >
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="40" height="40" >
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="40" height="40" >
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" width="40" height="40" >
-<img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40" >
-<img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" width="40" height="40" >
-<img src="https://skillicons.dev/icons?i=vscode" width="40" height="40" >
-<img src="https://skillicons.dev/icons?i=vite" width="40" height="40" >
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" width="40" height="40" >
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" width="40" height="40" >
-<img src="https://avatars.githubusercontent.com/u/7739233?s=280&v=4" height="40" width="40" >
+<div>
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" height="40" align="left" >
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" height="40" align="left" >
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" height="40" align="left" >
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" height="40" align="left" >
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" height="40" align="left" >
+<img src="https://img.icons8.com/?size=512&id=kg46nzoJrmTR&format=png" height="40" align="left" >
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" height="40" align="left" >
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" height="40" align="left" >
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" height="40" align="left" >
+<img src="https://skillicons.dev/icons?i=mongodb" height="40" align="left" >
+<img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" height="40" align="left" >
+<img src="https://skillicons.dev/icons?i=vscode" height="40" align="left" >
+<img src="https://skillicons.dev/icons?i=vite" height="40" align="left" >
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" height="40" align="left" >
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" height="40" align="left" >
+<img src="https://avatars.githubusercontent.com/u/7739233?s=280&v=4" width="40" align="left" >
+  <br>
 </div>
+<br>
 <hr>
 
 ### Github Stats
