@@ -32,25 +32,21 @@
 <hr>
 
 ### That's All I Know
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" height="40" align="left" >
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" height="40" align="left" >
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" height="40" align="left" >
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" height="40" align="left" >
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" height="40" align="left" >
-<img src="https://files.svgcdn.io/skill-icons/expressjs-dark.svg" height="40" align="left" >
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" height="40" align="left" >
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" height="40" align="left" >
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" height="40" align="left" >
-<img src="https://skillicons.dev/icons?i=mongodb" height="40" align="left" >
-<img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" height="40" align="left" >
-<img src="https://skillicons.dev/icons?i=vscode" height="40" align="left" >
-<img src="https://skillicons.dev/icons?i=vite" height="40" align="left" >
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" height="40" align="left" >
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" height="40" align="left" >
-<img src="https://avatars.githubusercontent.com/u/7739233?s=280&v=4" width="40" align="left" >
-
-<br>
-<br>
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" height="40" > <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" height="40" >
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" height="40" >
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" height="40" >
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" height="40" >
+<img src="https://files.svgcdn.io/skill-icons/expressjs-dark.svg" height="40" >
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" height="40">
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" height="40">
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" height="40" >
+<img src="https://skillicons.dev/icons?i=mongodb" height="40" >
+<img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" height="40" >
+<img src="https://skillicons.dev/icons?i=vscode" height="40" >
+<img src="https://skillicons.dev/icons?i=vite" height="40" >
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" height="40" >
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" height="40" >
+<img src="https://avatars.githubusercontent.com/u/7739233?s=280&v=4" width="40">
 
 ### Github Stats
 |![](https://github-stats-extended.vercel.app/api/?username=anuragsahay5&show_icons=true&theme=radical&rank_icon=github&include_all_commits=true)|![](https://github-readme-streak-stats-nine-beta.vercel.app/?user=anuragsahay5&theme=dark&hide_border=true&date_format=j%2Fn%5B%2FY%5D)|
